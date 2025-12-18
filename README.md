@@ -21,7 +21,7 @@ An interactive web-based tool to **construct and visualize Binary Trees, Binary 
 
 ---
 
-##🚀 **How to Run**
+##🚀 ****How to Run****
 
 -**Clone the repository**:
 
@@ -44,8 +44,7 @@ An interactive web-based tool to **construct and visualize Binary Trees, Binary 
   -Enter an array of numbers as input.
 
   -Click the respective buttons to construct:
-
-    -Binary Tree
+   -Binary Tree
 
    -Binary Search Tree (BST)
 
