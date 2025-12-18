@@ -20,34 +20,35 @@ An interactive web-based tool to **construct and visualize Binary Trees, Binary 
 - **DOM Manipulation** – Dynamically displays the trees based on input
 
 ---
-🚀 How to Run
 
-Clone the repository:
+##🚀 **How to Run**
 
-git clone https://github.com/Joshitha-03/TreeVisualizer.git
+-**Clone the repository**:
 
-
-Navigate to the project folder:
-
-cd TreeVisualizer
+  -git clone https://github.com/Joshitha-03/TreeVisualizer.git
 
 
-Open the project in a browser:
+-**Navigate to the project folder**:
 
-Double-click index.html OR
+  -cd TreeVisualizer
 
-Right-click → Open with → Browser of your choice (Chrome, Firefox, etc.)
 
-Use the Tree Visualizer:
+-**Open the project in a browser**:
 
-Enter an array of numbers as input.
+  -Double-click index.html OR
 
-Click the respective buttons to construct:
+  -Right-click → Open with → Browser of your choice (Chrome, Firefox, etc.)
 
-Binary Tree
+-**Use the Tree Visualizer**:
 
-Binary Search Tree (BST)
+  -Enter an array of numbers as input.
 
-Max Heap
+  -Click the respective buttons to construct:
 
-The trees will be dynamically displayed for visual understanding.
+    -Binary Tree
+
+   -Binary Search Tree (BST)
+
+   -Max Heap
+
+-The trees will be dynamically displayed for visual understanding.
